@@ -4,7 +4,6 @@ import java.util.Collections;
 public class ArralistPractice {
 
     public static void main(String[] args) {
-
         ArrayList<String> myArray = new ArrayList<String>();
         myArray.add("Tesla");
         myArray.add("Alpha Ramiah");
